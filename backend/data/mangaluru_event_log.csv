@@ -1,0 +1,150 @@
+event_id,event_date,location_code,event_type,severity,description,event_status
+EVT-MNG-1001,2023-01-31,KAD,Pipeline leakage,Moderate,Kadri: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1002,2023-02-01,BEN,Pipeline leakage,Moderate,Bendoor: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1003,2023-02-05,KAN,Pipeline leakage,Moderate,Kankanady: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1004,2023-03-01,KAD,Water shortage,High,Kadri: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1005,2023-03-03,SUR,Water shortage,High,Surathkal: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1006,2023-03-04,HAM,Water shortage,High,Hampankatta: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1007,2023-03-05,KAN,Pump failure,High,Kankanady: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1008,2023-03-15,HAM,Pump failure,High,Hampankatta: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1009,2023-03-16,SUR,Pump failure,High,Surathkal: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1010,2023-03-25,ULL,Reduced water supply,Moderate,Ullal: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1011,2023-04-01,HAM,Pump failure,High,Hampankatta: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1012,2023-04-03,SUR,Reduced water supply,Moderate,Surathkal: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1013,2023-04-04,BEN,Pump failure,High,Bendoor: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1014,2023-04-10,KAN,Reduced water supply,Moderate,Kankanady: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1015,2023-04-15,KAD,Water shortage,High,Kadri: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1016,2023-04-20,SUR,Water shortage,High,Surathkal: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1017,2023-04-21,URW,Reduced water supply,Moderate,Urwa: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1018,2023-04-23,BEN,Water shortage,High,Bendoor: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1019,2023-04-24,ULL,Water shortage,High,Ullal: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1020,2023-04-25,SUR,Water shortage,High,Surathkal: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1021,2023-04-29,BEN,Reduced water supply,Moderate,Bendoor: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1022,2023-05-05,KAN,Water shortage,High,Kankanady: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1023,2023-05-13,HAM,Pump failure,High,Hampankatta: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1024,2023-05-18,BEN,Water shortage,High,Bendoor: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1025,2023-05-20,KAN,Water shortage,High,Kankanady: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1026,2023-05-21,SUR,Reduced water supply,Moderate,Surathkal: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1027,2023-05-22,ULL,Reduced water supply,Moderate,Ullal: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1028,2023-05-25,BEJ,Reduced water supply,Moderate,Bejai: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1029,2023-05-28,URW,Pump failure,High,Urwa: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1030,2023-05-29,BEN,Water shortage,High,Bendoor: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1031,2023-05-30,BEJ,Pump failure,High,Bejai: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1032,2023-06-03,BEJ,Water contamination,High,Bejai: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1033,2023-06-07,SUR,Water contamination,High,Surathkal: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1034,2023-06-16,KAN,Heavy rainfall,Low,Kankanady: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1035,2023-06-19,URW,Pipeline leakage,Moderate,Urwa: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1036,2023-06-28,KAN,Pipeline leakage,Moderate,Kankanady: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1037,2023-07-01,URW,Water contamination,High,Urwa: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1038,2023-07-06,BEN,Pipeline leakage,Moderate,Bendoor: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1039,2023-07-12,KAN,Heavy rainfall,Low,Kankanady: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1040,2023-07-13,URW,Pipeline leakage,Moderate,Urwa: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1041,2023-07-20,ULL,Water contamination,High,Ullal: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1042,2023-07-30,ULL,Pipeline leakage,Moderate,Ullal: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1043,2023-07-31,BEN,Pipeline leakage,Moderate,Bendoor: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1044,2023-08-10,KAN,Heavy rainfall,Low,Kankanady: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1045,2023-08-11,BEN,Heavy rainfall,Low,Bendoor: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1046,2023-08-16,SUR,Heavy rainfall,Low,Surathkal: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1047,2023-08-17,SUR,Water contamination,High,Surathkal: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1048,2023-08-20,KAN,Pipeline leakage,Moderate,Kankanady: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1049,2023-08-23,ULL,Pipeline leakage,Moderate,Ullal: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1050,2023-08-27,HAM,Pipeline leakage,Moderate,Hampankatta: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1051,2023-08-28,BEJ,Heavy rainfall,Low,Bejai: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1052,2023-08-30,BEJ,Heavy rainfall,Low,Bejai: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1053,2023-09-02,SUR,Heavy rainfall,Low,Surathkal: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1054,2023-09-07,KAD,Water contamination,High,Kadri: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1055,2023-09-24,SUR,Heavy rainfall,Low,Surathkal: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1056,2023-09-28,ULL,Heavy rainfall,Low,Ullal: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1057,2023-09-29,BEN,Heavy rainfall,Low,Bendoor: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1058,2023-10-09,HAM,Infrastructure maintenance,Low,Hampankatta: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1059,2023-10-11,KAD,Infrastructure maintenance,Low,Kadri: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1060,2023-10-21,BEN,Infrastructure maintenance,Low,Bendoor: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1061,2023-10-22,URW,Pipeline leakage,Moderate,Urwa: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1062,2023-10-24,BEN,Reduced water supply,Moderate,Bendoor: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1063,2023-10-30,BEJ,Reduced water supply,Moderate,Bejai: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1064,2023-11-04,HAM,Infrastructure maintenance,Low,Hampankatta: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1065,2023-11-09,BEN,Infrastructure maintenance,Low,Bendoor: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1066,2023-11-21,BEJ,Infrastructure maintenance,Low,Bejai: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1067,2023-12-05,KAD,Infrastructure maintenance,Low,Kadri: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1068,2023-12-07,BEN,Infrastructure maintenance,Low,Bendoor: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1069,2023-12-10,KAN,Pipeline leakage,Moderate,Kankanady: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1070,2023-12-17,URW,Pipeline leakage,Moderate,Urwa: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1071,2023-12-18,HAM,Infrastructure maintenance,Low,Hampankatta: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1072,2023-12-20,URW,Reduced water supply,Moderate,Urwa: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1073,2024-01-11,HAM,Pipeline leakage,Moderate,Hampankatta: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1074,2024-01-25,URW,Reduced water supply,Moderate,Urwa: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1075,2024-01-26,KAN,Pipeline leakage,Moderate,Kankanady: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1076,2024-02-04,KAN,Infrastructure maintenance,Low,Kankanady: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1077,2024-02-25,KAD,Pipeline leakage,Moderate,Kadri: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1078,2024-03-01,ULL,Water shortage,High,Ullal: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1079,2024-03-10,BEJ,Pump failure,High,Bejai: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1080,2024-03-12,ULL,Pump failure,High,Ullal: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1081,2024-03-16,BEN,Emergency water distribution,Critical,Bendoor: Mobile water tanker fleet deployed to elevated and coastal habitations,Resolved
+EVT-MNG-1082,2024-03-18,KAN,Pump failure,High,Kankanady: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1083,2024-03-25,BEN,Emergency water distribution,Critical,Bendoor: Mobile water tanker fleet deployed to elevated and coastal habitations,Resolved
+EVT-MNG-1084,2024-03-28,URW,Emergency water distribution,Critical,Urwa: Mobile water tanker fleet deployed to elevated and coastal habitations,Resolved
+EVT-MNG-1085,2024-03-29,ULL,Water shortage,High,Ullal: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1086,2024-03-30,KAN,Pump failure,High,Kankanady: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1087,2024-03-31,KAD,Reduced water supply,Moderate,Kadri: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1088,2024-04-01,HAM,Pump failure,High,Hampankatta: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1089,2024-04-02,KAN,Water shortage,High,Kankanady: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1090,2024-04-03,KAD,Water shortage,High,Kadri: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1091,2024-04-07,KAN,Water shortage,High,Kankanady: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1092,2024-04-14,HAM,Reduced water supply,Moderate,Hampankatta: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1093,2024-04-16,KAD,Pump failure,High,Kadri: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1094,2024-04-18,BEN,Emergency water distribution,Critical,Bendoor: Mobile water tanker fleet deployed to elevated and coastal habitations,Resolved
+EVT-MNG-1095,2024-04-20,KAN,Pump failure,High,Kankanady: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1096,2024-04-24,ULL,Pump failure,High,Ullal: High-capacity booster pump electrical malfunction at Thumbe headworks,Resolved
+EVT-MNG-1097,2024-04-30,ULL,Emergency water distribution,Critical,Ullal: Mobile water tanker fleet deployed to elevated and coastal habitations,Resolved
+EVT-MNG-1098,2024-05-01,KAN,Water shortage,High,Kankanady: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1099,2024-05-06,KAD,Emergency water distribution,Critical,Kadri: Mobile water tanker fleet deployed to elevated and coastal habitations,Resolved
+EVT-MNG-1100,2024-05-07,URW,Emergency water distribution,Critical,Urwa: Mobile water tanker fleet deployed to elevated and coastal habitations,Resolved
+EVT-MNG-1101,2024-05-11,SUR,Emergency water distribution,Critical,Surathkal: Mobile water tanker fleet deployed to elevated and coastal habitations,Resolved
+EVT-MNG-1102,2024-05-15,HAM,Water shortage,High,Hampankatta: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1103,2024-05-22,HAM,Emergency water distribution,Critical,Hampankatta: Mobile water tanker fleet deployed to elevated and coastal habitations,Resolved
+EVT-MNG-1104,2024-05-29,URW,Water shortage,High,Urwa: Critical raw water depletion in Netravati intake triggering alternate-day rationing,Resolved
+EVT-MNG-1105,2024-06-04,KAN,Pipeline leakage,Moderate,Kankanady: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1106,2024-06-07,KAN,Heavy rainfall,Low,Kankanady: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1107,2024-06-09,ULL,Pipeline leakage,Moderate,Ullal: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1108,2024-06-16,SUR,Pipeline leakage,Moderate,Surathkal: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1109,2024-06-17,BEN,Water contamination,High,Bendoor: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1110,2024-06-22,KAN,Pipeline leakage,Moderate,Kankanady: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1111,2024-06-24,ULL,Heavy rainfall,Low,Ullal: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1112,2024-06-25,KAD,Pipeline leakage,Moderate,Kadri: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1113,2024-06-29,HAM,Pipeline leakage,Moderate,Hampankatta: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1114,2024-07-16,KAN,Pipeline leakage,Moderate,Kankanady: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1115,2024-07-19,SUR,Water contamination,High,Surathkal: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1116,2024-07-21,ULL,Pipeline leakage,Moderate,Ullal: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1117,2024-07-24,SUR,Pipeline leakage,Moderate,Surathkal: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1118,2024-07-27,BEJ,Water contamination,High,Bejai: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1119,2024-07-29,HAM,Water contamination,High,Hampankatta: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1120,2024-07-31,BEN,Water contamination,High,Bendoor: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1121,2024-08-05,BEN,Water contamination,High,Bendoor: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1122,2024-08-06,ULL,Pipeline leakage,Moderate,Ullal: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1123,2024-08-16,KAN,Water contamination,High,Kankanady: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1124,2024-08-17,KAN,Pipeline leakage,Moderate,Kankanady: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1125,2024-08-23,HAM,Heavy rainfall,Low,Hampankatta: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1126,2024-08-31,URW,Pipeline leakage,Moderate,Urwa: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1127,2024-09-02,HAM,Heavy rainfall,Low,Hampankatta: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1128,2024-09-03,ULL,Heavy rainfall,Low,Ullal: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1129,2024-09-09,BEJ,Pipeline leakage,Moderate,Bejai: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1130,2024-09-11,KAD,Pipeline leakage,Moderate,Kadri: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1131,2024-09-13,KAD,Heavy rainfall,Low,Kadri: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1132,2024-09-18,KAD,Heavy rainfall,Low,Kadri: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1133,2024-09-20,KAN,Water contamination,High,Kankanady: Turbidity surge and bacterial count spike following heavy storm runoff,Resolved
+EVT-MNG-1134,2024-09-25,KAD,Heavy rainfall,Low,Kadri: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1135,2024-09-26,KAN,Heavy rainfall,Low,Kankanady: Torrential coastal monsoon precipitation; reservoir spillway gates operated,Resolved
+EVT-MNG-1136,2024-10-11,HAM,Infrastructure maintenance,Low,Hampankatta: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1137,2024-11-02,KAD,Reduced water supply,Moderate,Kadri: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1138,2024-11-04,URW,Reduced water supply,Moderate,Urwa: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1139,2024-11-16,KAN,Infrastructure maintenance,Low,Kankanady: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1140,2024-11-18,URW,Pipeline leakage,Moderate,Urwa: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1141,2024-11-25,BEN,Reduced water supply,Moderate,Bendoor: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1142,2024-11-29,BEJ,Infrastructure maintenance,Low,Bejai: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1143,2024-11-30,BEN,Reduced water supply,Moderate,Bendoor: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1144,2024-12-08,URW,Pipeline leakage,Moderate,Urwa: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1145,2024-12-12,HAM,Reduced water supply,Moderate,Hampankatta: Scheduled power shutdown impacting regional distribution reservoir,Resolved
+EVT-MNG-1146,2024-12-14,KAD,Pipeline leakage,Moderate,Kadri: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1147,2024-12-16,KAN,Infrastructure maintenance,Low,Kankanady: Routine desilting and valve replacement on feeder pipeline,Resolved
+EVT-MNG-1148,2024-12-22,BEN,Pipeline leakage,Moderate,Bendoor: Main transmission distribution line burst repaired by technical crew,Resolved
+EVT-MNG-1149,2024-12-28,URW,Pipeline leakage,Moderate,Urwa: Main transmission distribution line burst repaired by technical crew,Resolved
